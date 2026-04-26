@@ -1,0 +1,22 @@
+[
+  {
+      "p_rel_url":"/api/v3/coins/markets?vs_currency=usd",
+      "p_sink_folder":"USD",
+      "p_sink_file":"usd.json"
+  },
+  {
+      "p_rel_url":"/api/v3/coins/markets?vs_currency=inr",
+      "p_sink_folder":"INR",
+      "p_sink_file":"inr.json"
+  },
+  {
+      "p_rel_url":"/api/v3/coins/markets?vs_currency=eur",
+      "p_sink_folder":"EUR",
+      "p_sink_file":"eur.json"
+  },
+  {
+      "p_rel_url":"/api/v3/coins/markets?vs_currency=gbp",
+      "p_sink_folder":"GBP",
+      "p_sink_file":"gpb.json"
+  }
+]
